@@ -108,6 +108,22 @@
 
    -  After training the Random Forest Regressor model, the feature importance analysis has done to reveal the predictor variables that contributes more when predicting target variable.
 
+  # Tools Covered
+
+  - Programming Langauge : Python
+
+  - Code Notebook : Google Colab-notebook
+  
+  - Data Collection: FRED (Federal Reserve Economic Data)
+    
+  - Data Cleaning: Machine Learning Imputation
+
+  - Exploratory Data Analysis: Pandas, Matplotlib, Seaborn
+    
+  - Model Building: Scikit-Learn (Random Forest Regressor)
+    
+  - Model Evaluation: R2 Score, MAE, RMSE
+
   # Results
 
    - Model Fit (R2 Score): 99.87%
