@@ -78,3 +78,25 @@
 ### Federal Funds Effective Rate (FEDFUNDS):
 
   - Changing in the federal reserve; adjusts the federal funds rate may influence the mortgage rate.
+
+# Model Process
+
+  ### Data Cleaning and Imputation:
+  
+   - Utilized machine learning models to impute missing values in the dataset.
+
+  ### Exploratory Data Analysis (EDA):
+  
+   - Conducted thorough EDA to understand the relationships between features and the target variable.
+
+  ### Feature Engineering:
+  
+   - Engineered relevant features to improve model performance.
+
+  ### Model Selection:
+  
+   - Chose the Random Forest Regressor based on its outstanding R2 score of 99.87%.
+
+  ### Model Evaluation:
+  
+   - Utilized R2 score, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE) for model evaluation.
