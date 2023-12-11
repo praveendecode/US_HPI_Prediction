@@ -6,6 +6,9 @@
     
   - The chosen model is a Random Forest Regressor, achieving a remarkable R2 score of 99.87%.
 
+  ![image](https://github.com/praveendecode/US_HPI_Prediction/assets/95226524/a957cf46-fdf3-4bd0-8690-67a13f9eb529)
+
+
 # Problem Statement
 
   - The objective is to identify and analyze factors that significantly impact home prices in the United States.
