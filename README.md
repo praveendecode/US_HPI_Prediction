@@ -104,5 +104,12 @@
   ### Feature Importance :
 
    -  After training the Random Forest Regressor model, the feature importance analysis has done to reveal the predictor variables that contributes more when predicting target variable.
+
+  # Results
+
+   - Model Fit (R2 Score): 99.87%
+   - MAE (Mean Absolute Error): 1.39
+   - RMSE (Root Mean Squared Error): 2.37
+   - The Random Forest Regressor demonstrated superior performance in minimizing errors and capturing the variance in the target variable compared to other models
    
  
