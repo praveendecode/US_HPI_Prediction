@@ -100,8 +100,9 @@
   ### Model Evaluation:
   
    - Utilized R2 score, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE) for model evaluation.
+     
   ### Feature Importance :
 
-   -  
+   -  After training the Random Forest Regressor model, the feature importance analysis has done to reveal the predictor variables that contributes more when predicting target variable.
    
  
