@@ -4,7 +4,7 @@
     
   - The project utilizes the S&P Case-Schiller Home Price Index as a proxy for home prices and explores various economic indicators to build a predictive model.
     
-  - The chosen model is a Random Forest Regressor, achieving a remarkable R2 score of 99.87%.
+  - The chosen model is a Random Forest Regressor, achieving a remarkable R2 score of 99.87%
 
   ![image](https://github.com/praveendecode/US_HPI_Prediction/assets/95226524/a957cf46-fdf3-4bd0-8690-67a13f9eb529)
 
