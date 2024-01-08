@@ -12,7 +12,7 @@
 # Problem Statement
 
   - The objective is to identify and analyze factors that significantly impact home prices in the United States.
-    
+     
   - By leveraging publicly available data, we aim to build a robust predictive model that explains the variations in the S&P Case-Schiller Home Price Index over the past two decades.
 
 # Main Features
